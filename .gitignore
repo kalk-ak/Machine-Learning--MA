@@ -1,0 +1,9 @@
+lecture_notes/
+*.pdf
+
+*/__pycache__/
+
+
+*.zip
+
+labs/lab3/mba_dataset/
